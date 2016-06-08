@@ -8,7 +8,7 @@ header nav {
 }
 
 header nav a {
-    color: white;
+    color: #2A3132;
     padding: 30px 20px 29px 20px;
     text-decoration: none;
     text-align: center;
@@ -17,5 +17,8 @@ header nav a {
 }
 
 header nav a:hover {
+}
+
+header h1 {
     color: #2A3132;
 }
