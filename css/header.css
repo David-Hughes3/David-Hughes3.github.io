@@ -1,3 +1,21 @@
 header {
     background-color: #90AFC5;
 }
+
+header nav {
+    float: left;
+    overflow: hidden;
+}
+
+header nav a {
+    color: white;
+    padding: 30px 20px 29px 20px;
+    text-decoration: none;
+    text-align: center;
+    font-family: "Arial Black", Gadget, sans-serif;
+    display: inline-block;
+}
+
+header nav a:hover {
+    color: #2A3132;
+}
